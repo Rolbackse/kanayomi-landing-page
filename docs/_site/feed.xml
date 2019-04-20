@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanayomi's blog</title>
+    <description>đọc báo thả ga, không lo từ mới</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Apr 2019 23:00:34 +0700</pubDate>
+    <lastBuildDate>Wed, 17 Apr 2019 23:00:34 +0700</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Đổi sang visa chất lượng cao</title>
+        <description>&lt;p&gt;Mấy năm gần đây do tình trạng thiếu hụt lao động trầm trọng nên phía Nhật Bản đang thúc đẩy tuyển dụng từ nước ngoài. Như cách đây khoảng 8-9 năm không thấy người nước ngoài mấy, nhưng những năm gần đây cứ đi ra đường là thấy đâu đó người ngoại quốc.&lt;/p&gt;
+
+&lt;p&gt;Trong số đó, chính phủ Nhật đặc biệt quan tâm đến tầng lớp lao động trí thức nên đã thành lập ra chế độ visa riêng gọi là &lt;strong&gt;高度人材&lt;/strong&gt; (tiếng Anh dịch là &lt;em&gt;highly skilled professional visa&lt;/em&gt;, tiếng Việt tạm gọi vui là visa &lt;strong&gt;Cao độ nhân tài&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;Visa này chia làm 3 nhóm: &lt;strong&gt;người nghiên cứu&lt;/strong&gt;, &lt;strong&gt;người đi làm công ty&lt;/strong&gt; và &lt;strong&gt;người làm các hoạt động kinh doanh đầu tư&lt;/strong&gt;. Bài viết note lại quá trình chuyển sang loại visa này (dạng người đi làm công ty).&lt;/p&gt;
+
+&lt;p&gt;Dưới đây gọi tắt loại visa này là &lt;em&gt;HSP&lt;/em&gt;, từ tên viết tắt tiếng Anh.
+&lt;img src=&quot;/static/images/190417/1.png&quot; alt=&quot;visa-chat-luong-cao&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;visa-hsp-là-gì&quot;&gt;Visa HSP là gì&lt;/h2&gt;
+
+&lt;p&gt;Hiểu đơn giản thì HSP cũng là một loại visa, xác nhận tư cách lưu trú của người nước ngoài tại Nhật Bản. Nó cũng tương tự như visa du học sinh, visa lao động phổ thông mà chúng ta hay nhận được.&lt;/p&gt;
+
+&lt;p&gt;Tuy nhiên, visa HSP cần người sở hữu có thêm một số điều kiện nữa, mà sẽ được tính theo điểm số. Điểm số này có được do người lao động có trình độ cao, nắm bắt một số kiến thức và kỹ thuật chuyên sâu. Đơn giản có thể hiểu thường là người tốt nghiệp đại học, đi làm hoặc đi nghiên cứu và có mức thu nhập khá trở lên.&lt;/p&gt;
+
+&lt;p&gt;Visa HSP được chính phủ Nhật đưa vào vận hành từ năm 2012 và khá phổ biến đối với người đi làm công ty. Visa chia thành 3 nhóm chính:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;高度専門職1号(イ) - Loại dành cho người làm nghiên cứu&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;高度専門職1号(ロ) - Loại dành cho người làm công ty phổ thông (mình đã làm loại này)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;高度専門職1号(ハ) - Loại dành cho nhà đầu tư&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190417/2.png&quot; alt=&quot;visa-chat-luong-cao&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chế-độ-tính-điểm-lấy-visa-hsp&quot;&gt;Chế độ tính điểm lấy visa HSP&lt;/h2&gt;
+
+&lt;p&gt;Như trên đề cập, để có visa HSP chúng ta sẽ phải tính điểm. Thang điểm để có visa HSP là 70. Nếu tính ra mình có từ 70 điểm trở nên thì hoàn toàn có thể bắt đầu làm thủ tục để chuyển đổi visa sang HSP.&lt;/p&gt;
+
+&lt;p&gt;Bản tóm tắt về cách tính điểm có thể tham khảo file pdf từ cục xuất nhập cảnh: 
+&lt;a href=&quot;http://www.immi-moj.go.jp/newimmiact_3/pdf/h29_06_leaflet.pdf&quot;&gt;h29_06_leaflet.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Trên trang cục xuất nhập cảnh cũng có file Excel để tích tính điểm, có thể tham khảo vào tải về tại đây:
+&lt;a href=&quot;http://www.immi-moj.go.jp/newimmiact_3/evaluate/index.html&quot;&gt;newimmiact_3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dưới đây mình tóm tắt lại một số mục có thể lấy điểm đối với HSP loại (ロ) - dành cho lao động phổ thông làm việc cho công ty Nhật.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tốt nghiệp đại học trở lên: từ 10 điểm, cao nhất là tiến sỹ đã được 30 điểm rồi!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Số năm kinh nghiệm đi làm: cần từ 3 năm trở lên (5 điểm). Nếu trên 10 năm thì 20 điểm.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thu nhập từ 400man/năm trở lên: ít nhất 10 điểm. Chú ý dưới 30 tuổi thì điểm số cao hơn nên tốt nhất làm sớm để có được điểm cộng khi còn trẻ&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dưới 30 tuổi: 15 điểm! Tuổi càng lớn thì điểm này càng giảm&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Có bằng sáng chế, thành quả nghiên cứu nào không: 15 điểm&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Có bằng cấp (資格) liên quan đến chuyên ngành hay không: tối đa 10 điểm cho 2 bằng. Phần này thường mọi người sẽ thi để có thêm 10 điểm nếu thiếu&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Công ty có nhận trợ cấp đầu tư từ chính phủ, hoặc công ty vừa và nhỏ: 10 điểm&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tốt nghiệp từ trường đại học của Nhật Bản: 10 điểm&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Có chứng chỉ tiếng Nhật: N1 được 15 điểm, N2 được 10 điểm (chú ý N2 không được tính nếu có N1 hoặc tốt nghiệp đại học Nhật)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trường đại học trong top ranking: 10 điểm&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nhìn vào bảng điểm này thì thấy để đạt được 70 với một người đi làm trên 3 năm cũng khôn phải là khó.&lt;/p&gt;
+
+&lt;h2 id=&quot;lợi-ích-của-visa-hsp&quot;&gt;Lợi ích của visa HSP&lt;/h2&gt;
+
+&lt;p&gt;Lợi ích của visa HSP được đề cập cụ thể trên trang chủ cục xuất nhập cảnh: 
+&lt;a href=&quot;http://www.immi-moj.go.jp/newimmiact_3/preferential/index.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tóm tắt lại thì có mấy lợi ích như sau:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Được làm nhiều việc hơn so với visa lao động phổ thông&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Được cấp thời gian lưu trú 5 năm&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dễ xin visa vĩnh trú hơn (đủ 80 điểm 1 năm hoặc 70 điểm 3 năm là xin được visa vĩnh trú)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vợ/chồng được phép lao động&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dễ đưa người nhà sang Nhật&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Có thể đưa người giúp việc sang Nhật&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thủ tục xuất nhập cảnh nhanh chóng, không phải xếp hàng như visa phổ thông&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ngoài ra HSP có loại 2 (高度専門職2号) - loại này sẽ tương đương với vĩnh trú.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Có một điểm bất tiện của HSP đó là visa này gắn với công ty/đơn vị công tác. Nếu chuyển đơn vị sẽ phải xin lại visa theo tổ chức mới.&lt;/p&gt;
+
+&lt;h2 id=&quot;thủ-tục-xin-chuyển-visa-hsp&quot;&gt;Thủ tục xin chuyển visa HSP&lt;/h2&gt;
+
+&lt;p&gt;Thủ tục xin visa HSP cũng khá đơn giản, chủ yếu cần 2 loại giấy tờ:&lt;/p&gt;
+
+&lt;p&gt;Tờ khai xin đổi tư cách lưu trú&lt;/p&gt;
+
+&lt;p&gt;Giấy tờ chứng minh điểm số&lt;/p&gt;
+
+&lt;p&gt;Các bước làm thủ tục tham khảo theo: &lt;a href=&quot;http://www.immi-moj.go.jp/newimmiact_3/procedure/index.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tờ-khai&quot;&gt;Tờ khai&lt;/h2&gt;
+&lt;p&gt;Có rất nhiều tờ khai trên trang chủ nên chú ý lấy đúng tờ khai, xin thông tin của công ty và nhờ công ty đóng dấu.&lt;/p&gt;
+
+&lt;p&gt;Ví dụ xin đổi visa lao động (ロ) với công ty hiện tại thì tờ khai sẽ là 申請人等作成用 ２　　　N　（「高度専門職（１号イ・ロ）」・ theo link sau: &lt;a href=&quot;http://www.moj.go.jp/content/001290154.pdf&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Các loại tờ khai có thể xem chi tiết tại &lt;a href=&quot;http://www.moj.go.jp/ONLINE/IMMIGRATION/16-2-1.html&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nếu không chắc lấy tờ khai nào có thể lên cục xuất nhập cảnh, hoặc gọi điện hỏi hỗ trợ.&lt;/p&gt;
+
+&lt;h2 id=&quot;giấy-tờ-chứng-minh-điểm-số&quot;&gt;Giấy tờ chứng minh điểm số&lt;/h2&gt;
+&lt;p&gt;Phần này sẽ mất nhiều thời gian làm hơn. Một số giấy tờ sẽ như sau:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bằng tốt nghiệp&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy chứng nhận đi làm của công ty hiện tại và giấy chứng nhận thôi việc của các công ty cũ (在職証明書・退職証明書).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chú ý giấy cần ghi rõ thời gian làm việc, họ mới tính được. Và công ty không nhất thiết phải là công ty Nhật Bản.&lt;/p&gt;
+
+&lt;p&gt;Nếu có thời gian làm ở Việt Nam có thể xin công ty ở Việt Nam đó nữa.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy chứng nhận ước tính thu nhập năm hiện tại của công ty đang làm (収入見込み証明書)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy chứng nhận chứng chỉ tiếng Nhật (nếu có)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy chứng nhận bằng sáng chế, certificate (nếu có)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy chứng nhận công ty lên sàn, công ty nhận đầu tư từ chính phủ, công ty vừa và nhỏ (nếu có)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy chứng nhận trường đại học trong top rank (nếu có, chỉ cần tải thông tin từ trang web official về rank của trường)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Passport, thẻ ngoại kiều mang đi để xác định nhân thân&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ngoài ra có giấy tờ gì khác tính điểm thì chuẩn bị thêm. Các giấy tờ này có thể nộp bản photo nhưng cần mang bản chính đi đối chiếu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thủ tục tại cục xuất nhập cảnh
+Sau khi đã đủ giấy tờ rồi thì sẽ đi làm thủ tục tại cục xuất nhập cảnh. Địa điểm tại Tokyo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;108-8255
+東京都港区港南5-5-30&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Đi đến ga 品川駅, sẽ có xe buýt đến thẳng cục.&lt;/p&gt;
+
+&lt;p&gt;Nếu không phải ở Tokyo thì kiểm tra thông tin cục xuất nhập cảnh &lt;a href=&quot;http://www.immi-moj.go.jp/soshiki/index.html&quot;&gt;tại đây&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Đến cục có thể hỏi nhân viên hướng dẫn bảo đến làm thủ tục HSP. Họ sẽ cho tờ hướng dẫn như sau:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190417/3.jpg&quot; alt=&quot;visa-chat-luong-cao&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Đầu tiên sẽ phải đến quầy C5 lấy số để họ kiểm tra hồ sơ.&lt;/p&gt;
+
+&lt;p&gt;Nếu hồ sơ không có vấn đề gì, họ sẽ bảo ra quầy B1 nộp trực tiếp mà không cần xếp hàng lấy số.&lt;/p&gt;
+
+&lt;p&gt;Tại quầy &lt;strong&gt;B1&lt;/strong&gt;, nếu thủ tục không có vấn đề gì thì điền vào phong bì ハガキ địa chỉ nhà mình để họ gửi kết quả về, sau cùng sẽ nhận được giấy chứng nhận đã nộp hồ sơ:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190417/4.jpg&quot; alt=&quot;visa-chat-luong-cao&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chờ khoảng 2 tuần họ sẽ gửi kết quả về nhà. Kết quả ok thì sẽ yêu cầu mang theo 4000 JPY để đi lấy thẻ mới như sau:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190417/5.jpg&quot; alt=&quot;visa-chat-luong-cao&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Như trên hình có đề cập, khi đi lấy thẻ phải mang đầy đủ giấy tờ sau:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Passport&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thẻ ngoại kiều hiện tại&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4,000 JPY để nộp (mua tem tại tầng 1)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tờ chứng nhận đã nộp hồ sơ ở trên&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giấy kết quả này&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thiếu giấy tờ sẽ không nhận được thẻ mới nên chú ý mang đầy đủ.&lt;/p&gt;
+
+&lt;h2 id=&quot;kết-luận&quot;&gt;Kết luận&lt;/h2&gt;
+&lt;p&gt;Nếu mọi việc suôn xẻ thì chúc mừng bạn đã có tư cách lưu trú mới:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190417/6.jpg&quot; alt=&quot;visa-chat-luong-cao&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Như trên hình sẽ ghi rõ &lt;strong&gt;Highly Skilled Professional&lt;/strong&gt;, thời hạn 5 năm, loại visa (高度専門職１号　ロ)&lt;/p&gt;
+
+&lt;p&gt;Ngoài ra trong passport họ sẽ ghim một tờ giấy chứng nhận visa này kèm với tên công ty hiện đang làm.&lt;/p&gt;
+
+&lt;p&gt;Việc làm HSP rất có lợi để tiếp tục làm vĩnh trú một năm sau nếu đủ 80 nên khuyến khích mọi người làm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phuongnq.me/2019-04-17-highly-skilled-profession-visa/?fbclid=IwAR1jFI2UuMdOmri0G8_a4TGwHMKHlOhfkzZy_pxSHGeWof0PHk4qHFiW2-o&quot;&gt;Origin article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fanpage &lt;a href=&quot;https://www.facebook.com/kanayomi/&quot;&gt;Kanayomi&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Apr 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/doi-sang-visa-chat-luong-cao/</link>
+        <guid isPermaLink="true">http://localhost:4000/doi-sang-visa-chat-luong-cao/</guid>
+        
+        <category>news</category>
+        
+        <category>xinvisa</category>
+        
+        
+        <category>news</category>
+        
+        <category>xinvisa</category>
+        
+      </item>
+    
+      <item>
+        <title>Cách phòng tránh bệnh 熱中症 mùa nắng nóng</title>
+        <description>&lt;p&gt;熱中症 là bệnh say nắng hay bệnh sốc nhiệt khi nhiệt độ tăng cao thường xuất hiện vào mùa hè.&lt;/p&gt;
+
+&lt;p&gt;Khi mắc ねっちゅうしょう thì bạn cảm thấy đau đầu, hoa mắt, ợ hơi, thậm chị có trường hợp tử vong.&lt;/p&gt;
+
+&lt;p&gt;Dưới đây là những ách phòng tránh bệnh 熱中症 được dịch từ báo &lt;a href=&quot;https://news.kanayomi.com/article/%E7%86%B1%E4%B8%AD%E7%97%87%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8/&quot;&gt;KanaYomi News&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;１．外に出るとき(Khi ra ngoài)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190415/1.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Ngày nắng khi ra ngoài, hãy mặc trang phục mát mẻ, dễ thấm mồ hôi.
+Sử dụng mũ và ô đầy đủ. Dù không khát nước, nhưng khi uống nước ra nhiều mồ hồi thì cần bổ sung thêm Muối khoáng.&lt;/p&gt;
+
+&lt;h2&gt;２．家にいるとき(Khi ở nhà)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190415/2.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Khi nhiệt độ và độ ẩm cao, thì ở trong nhà cũng bị cảm nhiệt.&lt;/p&gt;
+
+&lt;p&gt;Theo dữ liệu thống kê có tới 80% số người chết vì cảm nhiệt đang ở trong nhà.&lt;/p&gt;
+
+&lt;p&gt;Khi ở trong nhà, hãy sử dụng điều hòa và quạt làm mát nào !&lt;/p&gt;
+
+&lt;p&gt;Hãy treo rèm or mành tre ở cửa sổ để làm dịu ánh sáng mặt trời chiếu rọi vào trong nhà.&lt;/p&gt;
+
+&lt;h2&gt;３．熱中症になったとき(Khi mắc bệnh cảm nhiệt)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190415/3.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Khi có người bị cảm nhiệt, hãy dẫn người đó đến nơi mát mẻ và cho họ ngủ ở đó.&lt;/p&gt;
+
+&lt;p&gt;Sau đó, giúp họ hạ nhiệt bằng cách chườm khăn ướt hoặc đá lạnh vào cổ và nách, dùng quạt nan quạt mát cho người bệnh.&lt;/p&gt;
+
+&lt;p&gt;Tiếp đó hãy cho họ uống nước. Nếu gọi tên mãi mà không thưa thì phải đưa ngay đến bệnh viện cấp cứu.&lt;/p&gt;
+
+&lt;h2&gt;４．子どととお年寄りに特に気をつける(Đặc biệt chú ý đến người già và trẻ em)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190415/4.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Trẻ nhỏ chiều cao thấp, đứng gần mặt đường hơn nên cảm nhận của các bé thường cao hơn 3 độ so với người lớn.&lt;/p&gt;
+
+&lt;p&gt;Trẻ đặt trong xe đẩy baby-car lại càng nóng hơn.&lt;/p&gt;
+
+&lt;p&gt;Người già thì cảm nhận độ nóng và khát nước kém đi. Cơ thể dù thiếu muối nhưng bản thân họ cũng không biết.&lt;/p&gt;
+
+&lt;p&gt;Trẻ em và người già không yêu cầu uống nước nhưng hãy cho họ uống đầy đủ nhé.&lt;/p&gt;
+
+&lt;h2&gt;５．熱中症になりやすい気温と時間(Nhiệt độ và thời gian hay xuất hiện 熱中症)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190415/5.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Theo Sở cứu hỏa dự phòng Tokyo, nhiệt độ trên 28 độ C thì số lượng người đưa đến bệnh viện vì bệnh cảm nhiệt tăng lên.&lt;/p&gt;
+
+&lt;p&gt;Dù khoảng 25 độ C nhưng độ ẩm cao thì cũng dễ bị cảm nhiệt.&lt;/p&gt;
+
+&lt;p&gt;25% số người cấp cứu vì cảm nhiệt được đưa đến vào buổi sáng và tối.&lt;/p&gt;
+
+&lt;p&gt;Dù buổi sáng hay tối nhưng nhiệt độ không giảm thì hãy sử dụng điều hòa và quạt nhé.&lt;/p&gt;
+
+&lt;h2&gt;6．天気情報を調べる(Hãy xem dự báo thời tiết)&lt;/h2&gt;
+
+&lt;p&gt;Cục dự báo khí tượng thủy văn khi thấy có vẻ nhiệt độ tăng cao sẽ đưa ra khuyến cáo cho mọi người.&lt;/p&gt;
+
+&lt;p&gt;Vì thế hãy chú ý theo dõi dự báo thời tiết qua tivi or internet nhé.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Apr 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Cach-phong-tranh-benh-%E7%86%B1%E4%B8%AD%E7%97%87-mua-nang/</link>
+        <guid isPermaLink="true">http://localhost:4000/Cach-phong-tranh-benh-%E7%86%B1%E4%B8%AD%E7%97%87-mua-nang/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>Đọc báo cùng Kanayomi</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>Đọc báo cùng Kanayomi</category>
+        
+      </item>
+    
+      <item>
+        <title>Hướng dẫn đọc báo cùng KanaYomi News</title>
+        <description>&lt;p&gt;Chúng tôi xin giới thiệu sơ qua về các chức năng và cách sử dụng báo &lt;a href=&quot;https://news.kanayomi.com&quot;&gt;KanaYomi News&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Khám phá các bài báo&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nội dung phong phú được cập nhật liên tục từ các trang báo hàng đầu như NHK, Yahoo news, Nikkei, Asahi,…&lt;/li&gt;
+  &lt;li&gt;Hãy lựa chọn các bài báo bạn thích theo các category cho trước. từ Quốc Tế đến Nội Địa, từ Chính Trị đến Văn Hóa,
+Thể Thao, Giải Trí, sẽ đáp ứng đầy đủ như cầu của quý bạn đọc.&lt;/li&gt;
+  &lt;li&gt;Mục ヘッドライン(Headline) là page tổng hợp tất cả các tin tức nóng hổi trên mọi lĩnh vực.&lt;/li&gt;
+  &lt;li&gt;Mục イージー(Easy) chứa những bài báo có nội dung tương đối dễ đọc, dễ hiểu, phù hợp với các bạn mới học tiếng Nhật or chưa quen với việc đọc báo tiếng Nhật.
+&lt;img src=&quot;/static/images/Help/categories.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Chức năng Ẩn/Hiện furigana&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hệ thống tự động hiển thị phiên âm Furigana phía trên chữ Kanji, đánh tan cảm giác sợ hãi khi đọc báo Nhật.&lt;/li&gt;
+  &lt;li&gt;Bằng việc click “振り仮名” button giúp bạn chủ động ẩn/hiện chữ furigana, rèn luyện khả năng ghi nhớ.&lt;/li&gt;
+  &lt;li&gt;Ngoài ra với việc chọn loại chữ furigana như Hiragana, Katakana, Romaji trên Header, bạn có thể tùy chỉnh chế độ hiển thị tương ứng.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/Help/furi.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Tap nhẹ tra từ &lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Với việc tap nhẹ or hover (chỉ chuột vào từ) bạn dễ dàng tra được nghĩa của new-word.&lt;/li&gt;
+  &lt;li&gt;Pop-up tra từ được tích hợp nghĩa, ví dụ câu cùng giải thích cấu trúc chữ Kanji giúp bạn hiểu sâu sắc về từ cần tra.
+&lt;img src=&quot;/static/images/Help/tratu1.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/Help/tratu2.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Các chức năng khác&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nội dung phong phú, đồ họa trực quan, tích hợp audio, video sống động, hỗ trợ luyện Choukai.&lt;/li&gt;
+  &lt;li&gt;Liên kết &lt;a href=&quot;https://www.facebook.com/kanayomi/&quot;&gt;fanpage&lt;/a&gt;, hỗ trợ chia sẻ bài viết, comment post qua facebook, twitter…&lt;/li&gt;
+  &lt;li&gt;Ấn “Next/Prev Post” để xem tiếp các bài báo khác.
+&lt;img src=&quot;/static/images/Help/detail.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Không dừng ở đó, KanaYomi phát triển đa nền tảng&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hiện tại KanaYomi đã có app cho Android, iOS với nhiều chức năng hỗ trợ học tiếng Nhật.
+&lt;img src=&quot;/static/images/Help/app.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Link &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.akira.nguyen.kanayomi&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link &lt;a href=&quot;https://itunes.apple.com/vn/app/kanayomi/id1315238862?mt=8&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link &lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Link &lt;a href=&quot;https://blog.kanayomi.com&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Xin chân thành cảm ơn !&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Apr 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Help/</link>
+        <guid isPermaLink="true">http://localhost:4000/Help/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>Đọc báo cùng Kanayomi</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>Đọc báo cùng Kanayomi</category>
+        
+      </item>
+    
+      <item>
+        <title>Những điều cần biết khi Tuyết rơi</title>
+        <description>&lt;p&gt;Dưới đây là những điều cần biết khi Tuyết rơi được dịch từ báo &lt;a href=&quot;https://news.kanayomi.com/article/%E9%9B%AA%E3%81%8C%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E9%99%8D%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8/&quot;&gt;KanaYomi News&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi vọng những kĩ năng sinh tồn này sẽ giúp các bạn khi gặp thiên tai ở Japan.&lt;/p&gt;
+
+&lt;div class=&quot;media-wrapper audio_container&quot;&gt;
+    &lt;audio id=&quot;audio&quot; preload=&quot;none&quot; controls=&quot;&quot; style=&quot;max-width:100%;&quot;&gt;
+        &lt;source src=&quot;https://nhks-vh.akamaihd.net/i/news/easy/k10010922371000.mp4/crypt.key?null=0&amp;amp;id=AgA2x7X%2fFyADJ4goq1xmUKplvcDPqhBxODo4NPBKUCU%2f%2fOvTUPpPiM2lP7Lp1JF1F9VEHwlukaWwug%3d%3d&quot; type=&quot;audio/mp3&quot; /&gt;
+    &lt;/audio&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;１．道みちが滑りすべりやすい (Đường trơn trượt)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190409/1.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Khi tuyết rơi thì đường phố sẽ trở nên trơn trượt. Khi đi bộ thì dễ trượt ngã, có nhiều sự cố ô tô bị trượt bánh đâm va quệt rất nguy hiểm.&lt;/p&gt;
+
+&lt;p&gt;Nước trên mặt đường đóng băng thì đường trở nên rất khó nhìn. Để có thể nhìn chỗ không bị đóng băng, sự cố lại xuất hiện nhiều hơn.&lt;/p&gt;
+
+&lt;p&gt;Khi đi bộ, hãy sử dụng Giày chuyên dụng ít trơn trượt.&lt;/p&gt;
+
+&lt;p&gt;Khi lái xe, hãy sử dụng bánh xích or dây xích quấn vào bánh xe để di chuyển.&lt;/p&gt;
+
+&lt;p&gt;Tuyệt đối không sử dụng xe đạp.&lt;/p&gt;
+
+&lt;h2&gt;２．屋根やねに積もっつもった雪ゆきに気きをつけて(Chú ý tuyết đọng trên mái nhà)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190409/3.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Khi trời nắng, nhiệt độ tăng, tuyết rơi từ mái nhà xuống rất nguy hiểm. Chúng ta cần tránh đi sát mái nhà.&lt;/p&gt;
+
+&lt;p&gt;Khi hạ tuyết từ mái nhà thì để tuyết không rơi vào người thì cần buộc dây xung quanh người và đội mũ bảo hiểm cẩn thận.&lt;/p&gt;
+
+&lt;p&gt;Khi nguy hiểm, cần sự hỗ trợ của 2 người trở lên.&lt;/p&gt;
+
+&lt;h2&gt;３．「吹雪ふぶき」のときは外そとに出でない(Khi có bão tuyết, không ra ngoài)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/static/images/190409/4.jpg&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+Gió mạnh khi tuyết rơi được gọi là ふぶき. Khi đi trong bão tuyết, ta không nhìn rõ phía trước, đường cũng nhìn không rõ.&lt;/p&gt;
+
+&lt;p&gt;Gió mạnh, cơ thể bị lạnh, có trường hợp bị chết cóng. Trong bão tuyết, tốt hơn hết là không ra ngoài.&lt;/p&gt;
+
+&lt;p&gt;Khi xe ô tô bị dừng hoạt động thì để khí thải không quay ngược lại ô tô thì hoặc là tắt động cơ,&lt;/p&gt;
+
+&lt;p&gt;hoặc là cào tuyết che lấp ống xả.&lt;/p&gt;
+
+&lt;h2&gt;４．「雪崩なだれ」の危険きけん(Sự nguy hiểm Tuyết lở)&lt;/h2&gt;
+&lt;p&gt;Tuyết từ trên núi, vách đá bỗng nhiên lở được gọi là  なだれ. Lở tuyết xảy ra khi tuyết rơi nhiều, nhiệt độ tăng cao đột biến.&lt;/p&gt;
+
+&lt;p&gt;Khi lái xe qua đường núi phải đặc biệt chú ý !&lt;/p&gt;
+
+&lt;h2&gt;５．雪ゆきがたくさん降るふる前まえの準備じゅんび(Chuẩn bị sẵn sàng trước khi tuyết rơi)&lt;/h2&gt;
+
+&lt;p&gt;Khi tuyết rơi nhiều, đường xá không thể đi lại, từ các làng mạc, phố xá không thể đi ra được.&lt;/p&gt;
+
+&lt;p&gt;Do sức nặng của tuyết, dây điện bị đứt, mất điện hàng loạt.&lt;/p&gt;
+
+&lt;p&gt;Vì thể chung ta hãy chuẩn bị sẵn đồ ăn, bếp sưởi không sử dụng điện, chuẩn bị sẵn đèn pin bỏ túi nào.&lt;/p&gt;
+
+&lt;p&gt;Tàu điện, xe bú và máy bay có thể bị dely, huỷ chuyến nền mọi người hãy tìm hiểu thông tin trên Tivi &amp;amp; Internet nhé !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Apr 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Nhung-Chu-Y-Khi-Tuyet-Roi/</link>
+        <guid isPermaLink="true">http://localhost:4000/Nhung-Chu-Y-Khi-Tuyet-Roi/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>Đọc báo cùng Kanayomi</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>Đọc báo cùng Kanayomi</category>
+        
+      </item>
+    
+      <item>
+        <title>Tại sao Mèo đuổi Chuột</title>
+        <description>&lt;div class=&quot;media-wrapper audio_container&quot;&gt;
+    &lt;audio id=&quot;audio&quot; preload=&quot;none&quot; controls=&quot;&quot; style=&quot;max-width:100%;&quot;&gt;
+        &lt;source src=&quot;http://ohanashi2.up.seesaa.net/mp3/j_0101.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+    &lt;/audio&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ngày xửa ngày xưa　(むかしむかし)
+&lt;img src=&quot;/static/images/190322/0.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;人間も生まれていない、大むかしのある年の暮れの事です。&lt;/p&gt;
+
+&lt;p&gt;神さまが、動物たちに言いました。&lt;/p&gt;
+
+&lt;p&gt;khi con người còn chưa sinh ra, có một câu chuyện ngụ ngôn về những ngày cuối cùng của một năm.&lt;/p&gt;
+
+&lt;p&gt;Một vị thần nói với các loài động vật.
+&lt;img src=&quot;/static/images/190322/1.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+「もうすぐ正月だ。&lt;/p&gt;
+
+&lt;p&gt;　元旦には、みんな私の所に来なさい。&lt;/p&gt;
+
+&lt;p&gt;　そして、先に来た者から十二番目までを、その年の大将としよう」&lt;/p&gt;
+
+&lt;p&gt;　ところが、うっかり者のネコは集まる日を忘れたので、友だちのネズミに聞きました。&lt;/p&gt;
+
+&lt;p&gt;　するとネズミは、&lt;/p&gt;
+
+&lt;p&gt;Sắp đến tết rồi, ngày mùng một tết, các ngươi hãy mau đến chỗ ta.&lt;/p&gt;
+
+&lt;p&gt;Trong số các ngươi, 12 người đến đầu tiên ta sẽ phong làm Đại tướng quân của năm.&lt;/p&gt;
+
+&lt;p&gt;Thế nhưng Mèo kia ngơ ngác quên mất ngày tập trung, đã hỏi bạn Chuột. Chuột ta trả lời :
+&lt;img src=&quot;/static/images/190322/3.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+「ああ、新年の二日だよ」と、わざとうそを教えました&lt;/p&gt;
+
+&lt;p&gt;“À, ngày mùng 2 năm mới đấy”. Chuột ta cố tình nói dối lừa Mèo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190322/2.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;さて、元旦になりました。&lt;/p&gt;
+
+&lt;p&gt;ウシは足が遅いので、朝早くに家を出ました。&lt;/p&gt;
+
+&lt;p&gt;Nào, đến ngày mùng một tết.&lt;/p&gt;
+
+&lt;p&gt;Bò đi chậm nên đã nhanh chóng ra khỏi nhà.
+&lt;img src=&quot;/static/images/190322/4.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+ちゃっかり者のネズミは、&lt;/p&gt;
+
+&lt;p&gt;Chuột ta thì …&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190322/5.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;こっそりウシの背中に乗って神さまの前に来ると、&lt;/p&gt;
+
+&lt;p&gt;Lén lượt leo lên lưng bò ngồi, đến trước mặt các vị thần.
+&lt;img src=&quot;/static/images/190322/6.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ピョンと飛び降りて一番最初に神さまの前に行きました。&lt;/p&gt;
+
+&lt;p&gt;Phắt một cái, chuột nhảy xuống &amp;amp; đến đầu tiên.
+&lt;img src=&quot;/static/images/190322/7.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190322/8.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;それでネズミが最初の年の大将になり、ウシが二番目になりました。&lt;/p&gt;
+
+&lt;p&gt;Vì thế Chuột thành con giáp đầu tiên, Bò thành con thứ hai.
+&lt;img src=&quot;/static/images/190322/9.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+その後、トラ・ウサギ・タツ・ヘビ・ウマ・ヒツジ・サル・ニワトリ・イヌ・イノシシの順になりました。&lt;/p&gt;
+
+&lt;p&gt;ところがネコは、ネズミに教えられた通り二日に神さまの所へ行きました。&lt;/p&gt;
+
+&lt;p&gt;Tiếp đó là Hổ, Thỏ, Rồng, Rắn, Ngựa, Dê, Khỉ, Gà, Chó, Lợn rừng.&lt;/p&gt;
+
+&lt;p&gt;Thế nhưng, Mèo theo chỉ bảo của Chuột, ngày mùng 2 đến gặp các vị thần.
+&lt;img src=&quot;/static/images/190322/10.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;すると神さまは、&lt;/p&gt;
+
+&lt;p&gt;Khi ấy, các vị thần …
+&lt;img src=&quot;/static/images/190322/11.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+「遅かったね。残念だけど、昨日決まったよ」&lt;/p&gt;
+
+&lt;p&gt;nói “Đã muộn rồi, thật tiếc quá, ta đã quyết định ngày hôm qua rồi.”
+&lt;img src=&quot;/static/images/190322/12.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;「ネズミめ、よくも騙したな！」&lt;/p&gt;
+
+&lt;p&gt;Con chuột kia, nhà người giỏi đấy !
+&lt;img src=&quot;/static/images/190322/13.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;怒ったネコは、それからずっと、ネズミを見ると追いかける様になりました。&lt;/p&gt;
+
+&lt;p&gt;Con mèo tức giận, từ đó hễ cứ nhìn thấy chuột là đuổi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190322/14.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The end.&lt;/p&gt;
+
+&lt;p&gt;KanaYomi đang xây dựng app mobile cho Android/iOS để các bạn có thể đọc nghe&lt;/p&gt;
+
+&lt;p&gt;truyện cổ tích Nhật Bản, vừa nâng cao năng lực tiếng Nhật của mình.&lt;/p&gt;
+
+&lt;p&gt;Hãy ủng hộ, like &amp;amp; share giúp KanaYomi nhé :D&lt;/p&gt;
+
+&lt;p&gt;Xin chân thành cảm ơn !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Chuyen-co-tich-tai-sao-meo-duoi-chuot/</link>
+        <guid isPermaLink="true">http://localhost:4000/Chuyen-co-tich-tai-sao-meo-duoi-chuot/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>truyện cổ tích</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        <category>truyện cổ tích</category>
+        
+      </item>
+    
+      <item>
+        <title>Tổng hợp tài liệu tiếng Nhật</title>
+        <description>&lt;p&gt;Tổng hợp tài liệu tiếng Nhật&lt;/p&gt;
+
+&lt;h3&gt;Tài liệu JLPT N5&lt;/h3&gt;
+
+&lt;p&gt;Nihongo Challenge. Kanji N4-5: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR3fsNdydbuqflEKOKU7Xs16oZqP5Jpe5tvvgCD9yZE1Uc9_Z4vuys8TH_4#!sV8FCTLa!_MNaIj98XrhxydRtSGQWP5X92gqOEbVmuB-2FnpveWU&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/6yvf1lvc19ob4r5/Nihongo+Challenge.+Kanji+N4-5.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Danh sách từ vựng N5: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/Danh-s%C3%A1ch-t%E1%BB%AB-v%E1%BB%B1ng-ti%E1%BA%BFng-Nh%E1%BA%ADt-N5.pdf?fbclid=IwAR0F-2IJbP_bDgktP93iNCJRz3yZ08srTud6JPJWf0-TlnyVqG74q2i2NSk&quot;&gt;Danh sách từ vựng tiếng Nhật N5&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Tài liệu JLPT N4&lt;/h3&gt;
+
+&lt;p&gt;Ngữ pháp N4 tiếng Việt: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR1NDjLp5p1ljP471Cd91leO59rBd_5z0Zvzxj43rdjxdOpbIQGYuWwUL-c#!JRMhiIxY!ViuKTw28OFRs6KeNn-zONEWDjTdyH662VxUbJJqK-vE&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/iqbs5d4k0y1taby/Ngu+Phap+N4+Tieng+Viet.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nihongo Challenge. Bunpo to yomu N4: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2HR9sMZQ-IMDQQEFE30yYicl00QZ5Cf4kePK4m6FESkohEY4wS1nQ_6Mw#!pMNXFZwa!K8Yd7lnTQ_NtTbSwu8eEXQPe9d8AB6fwnKSPNvuTtqI&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/3ce1g31f5x5m2ux/Nihongo+Challenge.+Bunpo_to_yomu+N4.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nihongo Challenge. Kotoba N4: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR1JY99EVGNhwbx70bZ30iScVajyGoMsjq9kobq3oTj9M4i-258aDGmuF-w#!0YFlDaCY!BUYgI5WdIRboswiz0WGaf8le32-UcAjAPEx6PpNzTO8&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/321l6pj3p7y3ktu/Nihongo+Challenge.+Kotoba+N4.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Danh sách từ vựng N4: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/Danh-s%C3%A1ch-t%E1%BB%AB-v%E1%BB%B1ng-ti%E1%BA%BFng-Nh%E1%BA%ADt-N4.pdf?fbclid=IwAR0FUIebIeLGRBTk8CM1WXiacfAk7Fuc7VUb0vthnpZnNlrw9TGqsyinvto&quot;&gt;Danh sách từ vựng tiếng Nhật N4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;50 bài Dokai N3-N4: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR0KmeLX264-A8_wm9PQr291KKbDeQiESFJ0_9LQIYWd5QYhxgSxJ5XnNDo#!oYVxHRbB!xWEEIJNqJjAMP27VVTo91nEcHy1OOJftpWyhzJzV518&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/uwmadmdgadu5gi9/55+bai+dokai+N3-N4.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Tài liệu JLPT N3&lt;/h3&gt;
+
+&lt;p&gt;JML.JLPT.N3_choukai_speed_master_CD_1: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2JVwd6SLHQuqoVHrtxvodyEhA-uPiIpUjNshzQ6nAqR_M1_8Me8-NGrrg#!NUkVkYrI!uBvF4cFNVKYbeqNjAF5i5qnqqA8YoDVATx4KNyq2OnA&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/6xgwfcpq2w9hcrw/JML.JLPT.N3_choukai_speed_master_CD_1.rar&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;JML.JLPT.N3_choukai_speed_master_CD_2: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR1Mvf8nUkYCLZCiKCftffSkwcehai5u2CVHs5WQWLgf9AZUsNdTnf5jI84#!sJMhkLBA!go0alI5MglBguqonJv6-syDBpIAUubXmPnGOCSRpt6Q&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/adrz8908ontwwd4/JML.JLPT.N3_choukai_speed_master_CD_2.rar&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;JML.JLPT.N3.Choukai.Speed.Master.Book.PDF: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2jhVD3d-0eeM5WUk7RKb8UTrLKXZ8mR8CEOCmwyESWXM5r-RBR5BCg4hs#!dZFDlLpZ!Om2M99H_Xm7SAlcRtC1W7f7pQjlaU1OhheEXxD2TdaY&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/pzege44e166qvmr/JML.JLPT.N3.Choukai.Speed.Master.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;JML.JLPT.N3.Goi.Speed.Master: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2MDfBX3fs02XKvwGKRnraWOwzl8dpksMgigk5diTqfftSVzmtfrEhV-GI#!4FV3hCzA!AF5zI8rlTDQQX9UbATX_42RR5m8hwetw3LFhozXbmTI&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/0udm2l7bzvauz4q/JML.JLPT.N3.Goi.Speed.Master.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;JML.JLPT.Soumatome.N3.Kanji: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR13cV_3wPvJ-hqTP48DMnxH4K2tBnf7IDQkHenJC8Q8QYYQRqjt0rwxl3k#!9VsXiYib!4s8YkDbMwg4Qn2StTV1M7TcIyGiVIa__iABUDATzBNY&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/zblzp0unqvw5puv/JML.JLPT.Soumatome.N3.Kanji.rar&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Somatome-Choukai-N3-Listening PDF: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2BzovhSvcOYiFj0uqmwG8OwEc-ZpIqysMEbY2j6KS2xXyqUdaF5cEN-hw#!AB1HCAiA!O29gCg7gU_HARPGkEeCVKCquSay6yWk9GvEI7Xls0gM&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/xcdd6ywqdk8ee1m/Somatome-Choukai-N3-Listening.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ngữ pháp sơ trung tổng hợp: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2RMiXvQE-mTZea9bsVTVkFLW3mEhqIquxoTPXQ0nBp5dcnsHUsuPWhZXc#!UB0mSDiT!4beuEww-MmqlgjcLV-JMX59wH2xL2b9g5CtVWndnwGk&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/dfsgyl43f5je5l9/Ngu+Phap+So+Trung+Tong+Hop.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Danh sách từ vựng N3: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/T%E1%BB%95ng-h%E1%BB%A3p-1793-t%E1%BB%AB-v%E1%BB%B1ng-ti%E1%BA%BFng-Nh%E1%BA%ADt-N3.pdf?fbclid=IwAR1NsESyA-eujX1N1U_RQa6hU98kw83QSc_6UMDMvkCnTAJduBmDFG5ubv4&quot;&gt;Tổng hợp 1793 từ vựng tiếng Nhật N3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ngữ pháp N3 tiếng Việt: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR24VtVChuVDXaF_UI_cJcdcsOGR59mGU7Pwrd-O77Xsr9iIuJ82Efbscc0#!YUdBzZbD!_f-TZxUJUPobV8zgh7QAH0ETrHCsjjHHuC5uaJzwXsY&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/rkc7av8d5f1kpkd/Ngu+Phap+N3+Tieng+Viet.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Danh sách ngữ pháp N3: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/Ngu-phap-N3.pdf?fbclid=IwAR2644OpFE3mCDh0URYeWMgS69tqnXFPe5FMjL83MpvZamznosQ-jxenKPY&quot;&gt;Danh sách ngữ pháp N3 tiếng Nhật&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Tài liệu JLPT N2&lt;/h3&gt;
+
+&lt;p&gt;Danh sách từ vựng N2: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/Danh-s%C3%A1ch-t%E1%BB%AB-v%E1%BB%B1ng-N2-ti%E1%BA%BFng-Nh%E1%BA%ADt.pdf?fbclid=IwAR0THFGupLGgxNGkVabJnlNbdcMsE001Bprr8WDEUJAGC5qlPm_JJAx9pyM&quot;&gt;Danh sách từ vựng N2 tiếng Nhật&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;New Approach Japanese Intermediate Course CD1: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR1hKUgWzL5wV7dI14LdJQR5xR8d2mxlcjtkUKQ4x_3IalUTYEXcfGOiI-0#!0VdUhbQS!IqdAKB8GPn3HRM7HST3GMHDuCIevALRLLL8BpII1s0o&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/v9o5a93ynrkurp9/New+Approach+Japanese+Intermediate+Course+CD1.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;New Approach Japanese Intermediate Course CD2: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR0Gmpk26TIkfbPBgYc3I-0P_fJ_-wHbvtG6WR5QzZNc9qLkq1kG3OLqlAk#!sAs2DY5Z!BxPfnEqqVP_QsGY_1CP83IWTorMN5f9Od6pxAFXNtM4&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/756uu6sfndy5n75/New+Approach+Japanese+Intermediate+Course+CD2.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Tài liệu JLPT N1&lt;/h3&gt;
+
+&lt;p&gt;Danh sách 1945 từ Kanji: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/1945_tu_kanji.pdf?fbclid=IwAR3ZbUYuU61VAyxEE5YZuBE2QpU54zWSJx56FS0jQiaBn6puzj3FHBBTCQU&quot;&gt;Danh sách 1945 từ Kanji&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2000 Hán tự thường dùng: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2mq2B3YFTOEdIoC1OeB44FZ3L_UGLAQhja7qGMvtPrEVVhRkjajfs12mo#!kB9nWRhA!jUbJJal_Xk7oDlNeUPNLT50VswAFgjoOW2Xooh-e4g4&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/vew60q5ywjjfxun/2000+Han+tu+thuong+dung.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Tài liệu học tiếng Nhật&lt;/h3&gt;
+
+&lt;p&gt;Kanji Look and Learn: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR09dDPuOGizirAW3beruWHgfmgkL5RMsiW5RLK2sKZGybuLFvHO3SHslf0#!NB8ERLoa!zdM51uHmjRh1RHw71OXTTqjGytX2w-zMM2_lC4pZa54&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/b4mleqfwn58eyyd/Kanji+Look+and+learn.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kanji Look and Learn Workbook Kaitou: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR3-4si7QLEtcaSXmubrr4j_u0WLTAJi3OXeZX4NV98fqvHwjkSURBhyIgQ#!VZVDiSKI!jkI2sXbHqHxpiMo0GdUgFrrv6Lgh8807SleCf6sKRe4&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/2xg8jwd8fbovvt2/Kanji+Look+and+Learn+Workbook+Kaitou.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kanji Look and Learn Workbook: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR0H-W2ym0LRVChDIdWNO-iZkqfSK0W3YYfGmhBizAfvvmqbrftLgirTnH0#!kM00nZ5R!L811X_sp5Lf-U8rNPUat_721LBRFA2sMSF9lzl_Yk1Q&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/it7iqwkzy9e87cz/Kanji+Look+and+Learn+Workbook.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mina no Nihongo: &lt;a href=&quot;https://drive.google.com/file/d/0B3AjUSEsEAm-YkJFWVB3LWxvWHM/view?fbclid=IwAR32Jg-sdlhqAKqyP-3JDrrCMWr1QK7KauxDrdOcoTfNlbbi8Kv3e5xkc_M&quot;&gt;GoogleDrive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Danh sách 214 bộ thủ Kanji: &lt;a href=&quot;http://vijaexpress.com/wp-content/uploads/2015/10/214-b%E1%BB%99-th%E1%BB%A7-H%C3%A1n-t%E1%BB%B1.pdf?fbclid=IwAR2PDLbocDzaKpjT3rgFmB0s3aBZEW7Z5tt0Xd-0RuGBAECvGmvcR3CbnwE&quot;&gt;214 bộ thủ Hán tự&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Từ vựng tiếng Nhật theo chủ đề: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR0bS5xuoHyLh-NWfO8po2zh3owMBabpTFJAvDoqcKTMguDBEvBLIxeb1U4#!ZZsRwQaa!KFygoKcM7h7HH2ztUsQI8J9-UzzKQkURPpFMWTydwGQ&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/62cyyt8q1copqxc/Tu+vung+tieng+Nhat+theo+chu+de.pdf&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;File Nghe Chuukyuu E Iko: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR3RDLdilszA7fPnxVPgXngJk8aCONdFlPVOY4wHGZQ2EAgzB5YUoxlQhuQ#!9F1FxSQB!BrYZfmuyF57WogQsOW5vq9_QEQiwUFdO27F7jY1sF-8&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/80kgrqkac8a6bdp/Chuukyuu+E+Iko.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Minna Chuukyuu I: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR0Ti3QRFs-bSQX8LsjwOEj-bSoqqUYKQ96ubA_18flw06hlY4LMYYio1Rc#!dU9zUbIa!SzB8zIrxal02mvFLapoBxBT0XS_VbkYmLwbSXjD6Ldw&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/t45jkkudttc8fwx/Minna+Chuukyuu+I.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Minna Chuukyuu II: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR1lIZ0K5XovyeUJ3T8R3FJPlv_9UC5w4zmtGaIJ2VCt9mdSaASg2IKyGJ0#!xElXRZIS!LbQsGS8k4n4-asO1PjJ9nympImYuixzxM8WU7BNfRJo&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/rg9vmfgx61045c7/Minna+Chuukyuu+II.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nameraka Nihongo Kaiwa: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR008b_4Fb_StHlpwJBS8O3r69TDMjECQxixOGjeW0Z6g6FGkhbjuTCn_oI#!ccd3zQiY!5jXr-2vxIwy5QEYPRtI6QAi-ByeHLfa6OpzSMFOSqhA&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/qb591ds7v43v80x/Nameraka+Nihongo+Kaiwa.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;New Approach Japanese Pre-Advanced Course CD1: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR1UFvd0ZR9KkdJqofrBq96nSFUQLle6RG9hWcnUuAosBbWYahlz2JfZrvA#!lEFGVA6S!mQtyjpQb76XEGXr3JQCtf-EbVniXAFT7jnMr9eeCxjM&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/i2rixpr38mbmrob/New+Approach+Japanese+Pre-Advanced+Course+CD1.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;New Approach Japanese Pre-Advanced Course CD2: &lt;a href=&quot;https://mega.nz/?fbclid=IwAR2UgxbXzKgm7HhXDIrKRu2pmhpGNEQuobgfzTRxzzFgxJi1jcRLFXpMhw4#!MUkVgDIJ!_Z_2Wbsb6am0V8EoPHWTgMSbmz-YYQSSJxCGVdwwXFo&quot;&gt;Mega.co.nz&lt;/a&gt; / &lt;a href=&quot;http://www.mediafire.com/file/y906e7nddex8y06/New+Approach+Japanese+Pre-Advanced+Course+CD2.zip&quot;&gt;Mediafire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bộ tài liệu Shin Nihongo: &lt;a href=&quot;https://vijaexpress.com/link-download-tai-lieu-tieng-nhat-shin-nihongo/?fbclid=IwAR1WN-UwMP3YxFZ5c-PadV9HB8BAJtenrV-91jXF-dGaeKCv0zc9gOKBFSY&quot;&gt;Link download tài liệu tiếng Nhật – Shin Nihongo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thân, KanaYomi !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/tong-hop-tai-lieu-tieng-nhat/</link>
+        <guid isPermaLink="true">http://localhost:4000/tong-hop-tai-lieu-tieng-nhat/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+      </item>
+    
+      <item>
+        <title>HƯỚNG DẪN LÀM THỦ TỤC XIN GIẢM THUẾ 年末調整</title>
+        <description>&lt;p&gt;HƯỚNG DẪN LÀM THỦ TỤC XIN GIẢM THUẾ年末調整&lt;/p&gt;
+
+&lt;p&gt;Như các bạn đã biết, mỗi năm sống ở Nhật chúng ta sẽ phải đóng thuế thị dân từ 12-&amp;gt;20 man tùy từng địa phương.&lt;/p&gt;
+
+&lt;p&gt;Với việc khai báo người phụ thuộc (kể cả người thân đang sống ở Việt Nam) sẽ giúp chúng ta giảm thuế tầm khoảng 2-&amp;gt;3man/1 người phụ thuộc.&lt;/p&gt;
+
+&lt;p&gt;Một số tiền tiết kiệm khá lớn phải không nào các bạn !?&lt;/p&gt;
+
+&lt;p&gt;Hôm nay KanaYomi sẽ hướng dẫn các bạn thủ tục giảm thuế thị dân, điều chỉnh thuế cuối năm 年末調整 nhé.&lt;/p&gt;
+
+&lt;h3&gt;1, Đối tượng&lt;/h3&gt;
+
+&lt;p&gt;Người đã sống một năm ở Nhật, có thông báo nộp thuế thị dân từ 区役所 gửi đến or công ty yêu cầu đóng thuế này.&lt;/p&gt;
+
+&lt;h3&gt;2, Thời điểm điều chỉnh thuế&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Khoảng tháng 10 hàng năm nộp hồ sơ.&lt;/li&gt;
+  &lt;li&gt;Tháng 2 đầu năm tiếp theo sẽ nhận được kết quả điều chỉnh thuế năm trước &amp;amp; nhận tiền khấu trừ.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;3, Hình thức nộp hồ sơ&lt;/h3&gt;
+
+&lt;p&gt;Cá nhân tự nộp hồ sơ cho 市・区役所 or nhờ công ty ủy quyền xử lý giúp.&lt;/p&gt;
+
+&lt;h3&gt;4, Các giấy tờ cần nộp&lt;/h3&gt;
+&lt;p&gt;P/s: Đây là thời điểm mình xin giảm thuế năm 2017, các bạn update template theo từng năm nhé.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;a, 平成29年分 給与所得控除 （異動）申告書 (cần đóng dấu cá nhân)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Download tại &lt;a href=&quot;https://www.nta.go.jp/tetsuzuki/shinsei/annai/gensen/pdf/h29_01.pdf&quot;&gt;đây&lt;/a&gt; rồi in ra viết tay:&lt;/p&gt;
+
+&lt;p&gt;Tham khảo cách ghi tại mục &lt;strong&gt;5, Mẫu tham khảo&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Chú ý: dòng “あなたの個人番号“  chính là phần ghi số My number của mình.&lt;/p&gt;
+
+&lt;p&gt;Nếu ai đã có số My number thì ghi  vào và gửi thêm bản photo thẻ My bumber để đối chiếu,còn ai không có thì để trống dòng này.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;b, 平成30年分 給与所得控除 （異動）申告書 (cần đóng dấu cá nhân)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Download tại &lt;a href=&quot;https://www.nta.go.jp/tetsuzuki/shinsei/annai/gensen/pdf/h30_01.pdf&quot;&gt;đây&lt;/a&gt; rồi in ra viết tay:&lt;/p&gt;
+
+&lt;p&gt;Nội dung viết giống hệt tờ số 1, ý nghĩa của tờ này là báo cáo người phụ thuộc dự kiến cho năm sau.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;c, 海外送金明細書　Giấy chứng nhận chuyển tiền về VN (Bản copy OK)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nếu chuyển cho bố mẹ thì bố và mẹ mỗi người phải có tài khoản riêng và tiền chuyển về tách riêng cho từng người.&lt;/p&gt;
+
+&lt;p&gt;Bạn có thể dùng dịch vụ chuyển tiền của SBI hoặc Dcom, giá rẻ hơn so với ngân hàng.&lt;/p&gt;
+
+&lt;p&gt;Chi tiết tham khảo link phía trên.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;d, 親族であることを証明する書類　 Giấy tờ chứng nhận quan hệ gia đình photo và phần dịch.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuỳ vào đối tượng phụng dưỡng mà bạn đăng ký, giấy tờ này có thể là sổ hộ khẩu, giấy khai sinh hoặc đăng ký kết hôn,miễn là chứng minh được người bạn khai có quan hệ gia đình với bạn.&lt;/p&gt;
+
+&lt;p&gt;Chú ý: vì bên Nhật yêu cầu bản dịch tiếng Nhật nên các bạn phải tự dịch các giấy tờ này.&lt;/p&gt;
+
+&lt;p&gt;Chú ý khi dịch ghi thêm tên Katakana của người phụng dưỡng, địa chỉ nhà ở VN ghi theo kiểu Nhật: ooo県 ooo市ooo区ooo町…&lt;/p&gt;
+
+&lt;p&gt;VD: Xóm 2 xã Giao Hà huyện Giao Thuỷ tỉnh Nam Định  có thể dịch là&lt;/p&gt;
+
+&lt;p&gt;ベトナム Nam Dinh県 Giao Thuy市 Giao Ha区２町&lt;/p&gt;
+
+&lt;h2&gt;5, Mẫu tham khảo&lt;/h2&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;5500px&quot; src=&quot;/static/images/190318/thuethidan.pdf&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Thân, KanaYomi !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/huong-dan-giam-thue-thi-dan-o-nhat/</link>
+        <guid isPermaLink="true">http://localhost:4000/huong-dan-giam-thue-thi-dan-o-nhat/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+      </item>
+    
+      <item>
+        <title>Đề thi tiếng Nhật N1 tháng 12/2018</title>
+        <description>&lt;p&gt;⛔️⛔️⛔️ &lt;strong&gt;ĐỀ THI CHÍNH THỨC N1 (12-2018)&lt;/strong&gt;_HÃY SHARE VỀ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Đây là đề thi chính thức N1 tháng 12 vừa rồi. 
+Cấu trúc đề thi hầu như không thay đổi gì.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mọi người chuẩn bị thi N1 sắp tới ôn luyện cho tốt nhé !c&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190317/de-thi-n1/1.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190317/de-thi-n1/2.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190317/de-thi-n1/3.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190317/de-thi-n1/4.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190317/de-thi-n1/5.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190317/de-thi-n1/6.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190317/de-thi-n1/7.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thân, KanaYomi !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/de-thi-tieng-nhat-n1/</link>
+        <guid isPermaLink="true">http://localhost:4000/de-thi-tieng-nhat-n1/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+      </item>
+    
+      <item>
+        <title>Đề thi tiếng Nhật N2 tháng 12/2018</title>
+        <description>&lt;p&gt;⛔️⛔️⛔️ ĐỀ THI CHÍNH THỨC N2 (12-2018)_HÃY SHARE VỀ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Đây là đề thi chính thức N2 tháng 12 vừa rồi. 
+Cấu trúc đề thi hầu như không thay đổi gì.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mọi người chuẩn bị thi N2 sắp tới ôn luyện cho tốt nhé !&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190316/de-thi-n2/1.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190316/de-thi-n2/2.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190316/de-thi-n2/3.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190316/de-thi-n2/4.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190316/de-thi-n2/5.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190316/de-thi-n2/6.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190316/de-thi-n2/7.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thân, KanaYomi !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/de-thi-tieng-nhat-n2/</link>
+        <guid isPermaLink="true">http://localhost:4000/de-thi-tieng-nhat-n2/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+      </item>
+    
+      <item>
+        <title>Đề thi tiếng Nhật N3 tháng 12/2018</title>
+        <description>&lt;p&gt;⛔️⛔️⛔️ ĐỀ THI CHÍNH THỨC N3 (12-2018)_HÃY SHARE VỀ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Đây là đề thi chính thức N3 tháng 12 vừa rồi. Cấu trúc đề thi hầu như không thay đổi gì. Một số đánh giá đề thi vừa qua như sau:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hầu như từ vựng không quá khó, nhưng hơi rộng. Nếu học hết từ vựng trong 880 từ của Mimi kara thì không đủ để làm phần thi từ vựng. Nhưng cũng hoàn thành được 80% kiến thức của phần thi này.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Phần thi ngữ pháp&lt;/strong&gt;: Ngữ pháp thi hầu như không quá nhiều kiến thức ngữ pháp N3. Mà hầu như ngữ pháp chủ yếu nhấn vào hình thái ngữ pháp thể tôn kính ngữ và khiêm nhường ngữ; ngữ pháp phức và trợ từ cách,…. Đặc biệt chú trọng đến phần liên kế câu bằng những liên từ nối mệnh đề.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Phần đọc hiểu&lt;/strong&gt;: Đọc hiểu thì những năm gần đây ra không quá khó dịch, những bài đọc hiểu khá tương đồng với cấp độ thi. Tuy nhiên, phần chọn đáp án thì thường học sinh lúc nào cũng phân vân 2 đáp án. Do vậy, phần đưa ra kỹ năng làm đọc hiểu rất quan trọng.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Phần nghe hiểu&lt;/strong&gt;: Đây là phần thi tương đối nhức đầu cho những bạn yếu về phần này, phần thi này đòi hỏi về mức độ phản xạ ngôn từ và thẩm thấu về tai tốt. Để làm tốt phần này hãy nghe nhiều, và phán đoán tốt về tình huống hội thoại. Đặc biệt những bài có đáp án chọn sẵn.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/static/images/190315/de-thi-n3/1.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/2.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/3.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/4.png&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/5.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/6.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/7.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/8.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/9.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/10.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;
+&lt;img src=&quot;/static/images/190315/de-thi-n3/11.gif&quot; alt=&quot;học tiếng nhật&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi vọng bài viết này có ích cho bạn, KanaYomi !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/kanayomi&quot;&gt;Fanpage&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Mar 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/de-thi-tieng-nhat-n3/</link>
+        <guid isPermaLink="true">http://localhost:4000/de-thi-tieng-nhat-n3/</guid>
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+        
+        <category>kanayomi</category>
+        
+        <category>học tiếng nhật</category>
+        
+      </item>
+    
+  </channel>
+</rss>

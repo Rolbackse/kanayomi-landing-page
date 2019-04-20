@@ -1,0 +1,77 @@
+---
+layout: default
+title: Home
+---
+
+{% if page.url == "/" %}
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Nổi bật</span></h2>
+    </div>
+    <div class="row">
+
+    {% assign feature_count = 0 %}
+    {% for post in site.posts %}
+
+        {% if post.featured == true and post.hidden == false %}
+            {% assign feature_count = feature_count | plus : 1 %}
+            {% include featuredbox.html %}
+            {% if feature_count >= 2 %}
+                {% break %}
+            {% endif %}
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
+{% for nav in site.navs %}
+    {% assign category = site.my_categories[nav] %}
+    {% assign has_post = false %}
+    {% for post in site.posts %}
+        {% if post.categories contains category.name %}
+            {% assign has_post = true %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% if has_post %}
+        <div class="view_all">
+          <a href="{{site.baseurl}}/category/{{category.name | downcase | downcase | url_escape | strip | replace: ' ', '-' }}"> >> Xem tất cả</a>
+        </div>
+        <section class="recent-posts">
+            <div class="category-title">
+              <h2><span>{{category.name}}</span></h2>
+            </div>
+            <div class="row listrecent">
+            {% assign i = 0 %}
+            {% for post in site.posts %}
+                {% if post.categories contains category.name and post.hidden == false %}
+                    {% assign i = i | plus : 1 %}
+                    {% include postbox.html %}
+                    {% if i >= site.paginate %}
+                        {% break %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            </div>
+        </section>
+
+
+
+    {% endif %}
+{% endfor %}
+
+<!-- Pagination
+================================================== -->
+<!-- <div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    { - % include pagination.html % - }
+</span>
+</div> -->

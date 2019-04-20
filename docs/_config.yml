@@ -1,0 +1,110 @@
+# Site
+name: "Kanayomi"
+title: "Kanayomi's blog"
+description: "đọc báo thả ga, không lo từ mới"
+meta_description: "kanayomi, newspaper, blog, free, japanese, japan"
+logo: 'static/images/logo.png'
+favicon: 'static/images/logo.png'
+baseurl:
+google_analytics: 'UA-135507826-1'
+disqus: 'toannv-me'
+# them link mailing list o day de hien thi subscribe
+mailchimp-list:
+include: ["_pages"]
+permalink: /:title/
+
+navs: ["hoc_tieng_nhat", "du_lich", "hanh_chinh", "cong_so"]
+my_categories:
+  cong_so:
+    name: Chuyện công sở
+    has_sub: true
+    sub_categories: ["Business manner", "Văn hoá công ty Nhật"]
+    last: "Văn hoá công ty Nhật"
+  hanh_chinh:
+    name: Thủ tục hành chính
+    has_sub: true
+    sub_categories: ["Thủ tục Visa", "Thủ tục hàng ngày", "Thủ tục khác"]
+    last: "Thủ tục khác"
+  du_lich:
+    name: Thông tin du lịch
+    has_sub: true
+    sub_categories: ["Thư viện ảnh", "Du lịch Kanto", "Du lịch Kansai"]
+    last: "Du lịch Kansai"
+  hoc_tieng_nhat:
+    name: Học tiếng Nhật
+    has_sub: true
+    sub_categories: ["N1", "N2", "N3", "N4", "N5", "Đọc báo cùng Kanayomi"]
+    last: "Đọc báo cùng Kanayomi"
+
+# Authors
+authors:
+  toannv:
+    name: toannv
+    display_name: ToanNV
+    avatar: /static/images/toannv.jpeg
+    email: toannv@kanayomi.com
+    web: https://toannv.me
+    description: "developer, living in Tokyo, got married"
+  chienpn:
+    name: chienpn
+    display_name: chienpn
+    avatar: /static/images/chienpn.jpg
+    email: chienpn@kanayomi.com
+    web: https://blog.kanayomi.com
+    description: "đọc báo thả ga, không lo từ mới"
+  admin:
+    name: admin
+    display_name: admin
+    avatar: /static/images/logo.png
+    email: admin@kanayomi.com
+    web: https://blog.kanayomi.com
+    description: "đọc báo thả ga, không lo từ mới"
+  mango:
+    name: mango
+    display_name: mango
+    avatar: /static/images/mango.jpg
+    email: dinhthibinh90@gmail.com
+    web: https://blog.kanayomi.com
+    description: "Mẹ của một em bé đáng yêu!"
+  QuanPH:
+    name: QuanPH
+    display_name: QuanPH
+    avatar: /static/images/quanph.jpg
+    email: quanph24@gmail.com
+    web: https://blog.kanayomi.com
+    description: "đọc báo thả ga, không lo từ mới"  
+
+jekyll_admin:
+  hidden_links:
+    - datafiles
+    - configuration
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-youtube
+  - github-pages
+  - jekyll-toc
+  - jekyll-admin
+  - jemoji
+  # - jekyll-furigana
+  # - jekyll-archives
+
+# Archives
+# jekyll-archives:
+#   enabled: [categories]
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
+
+# Pagination
+paginate: 6
+cat_paginate: 20
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+highlighter: rouge
