@@ -1,7 +1,7 @@
 var en = {
     about:"About Kanayomi",
-    how_it_work:"HOW IT WORKS",
-    features:"FEATURES",
+    how_it_work:"News",
+    features:"Blog",
     contact:"CONTACT US",
     kanayomi:"KanaYomi",
     join_now:"Get Involved",
@@ -36,8 +36,8 @@ var en = {
 
 var vi = {
     about:"Về Kanayomi",
-    how_it_work:"Cách sử dụng",
-    features:"Tính Năng",
+    how_it_work:"Tin tức",
+    features:"Blog",
     contact:"Liên Hệ",
     kanayomi:"KanaYomi",
     join_now:"Tham Gia Ngay",
@@ -72,8 +72,8 @@ var vi = {
 
 var jp = {
     about:"Về Kanayomi",
-    how_it_work:"Cách sử dụng",
-    features:"Tính năng",
+    how_it_work:"Tin tức",
+    features:"Blog",
     contact:"Liên hệ",
     kanayomi:"KanaYomi",
     join_now:"Tham gia ngay",
